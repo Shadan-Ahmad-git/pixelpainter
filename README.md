@@ -979,12 +979,13 @@ Educational and research use only. Check individual component licenses:
 
 ## Contributors
 
-- Reetam Dan  
-- Shadan Ahmad 
+Reetam Dan  
+Shadan Ahmad 
 
 
 **Last Updated**: December 27, 2024  
 **Version**: 2.0  
 **Document Type**: Technical Reference and Implementation Guide
+
 
 
